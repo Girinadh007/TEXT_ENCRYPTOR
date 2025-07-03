@@ -16,14 +16,14 @@ A simple GUI application for Caesar Cipher encryption using Python. It allows us
 ### 1. Clone the Repository
 
 git clone (https://github.com/Girinadh007/TEXT_ENCRYPTOR.git)
-cd ceasar-cipher-gui
+cd TEXT_ENCRYPTOR
 
 ### 2. Installing requirements
 
 pip install -r requirements.txt
  
 ### 3. Run the application
-python ceaser_cipher_gui.py
+python ceaser.py
 
 
 📄 License
