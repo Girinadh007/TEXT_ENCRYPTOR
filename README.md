@@ -15,7 +15,7 @@ A simple GUI application for Caesar Cipher encryption using Python. It allows us
 🚀 Getting Started
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/ceasar-cipher-gui.git
+git clone (https://github.com/Girinadh007/TEXT_ENCRYPTOR.git)
 cd ceasar-cipher-gui
 
 ### 2. Installing requirements
